@@ -1,0 +1,1 @@
+- Use a random word generator to generate three unrelated words. Incorporate these words into a short story or poem.

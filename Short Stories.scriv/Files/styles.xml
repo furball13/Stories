@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Styles>
+    <Style ID="F6FB61A9-B5D8-4C65-A1D1-51DA7D1F9868" Name="Title" Type="Para+Char" FontChange="Size">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 Calibri;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs56\cf0
+\pard\plain \tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sb260\sl262\slmult1\ltrch\loch {\f0\fs56\b0\i0 Attributes}}]]></Format>
+    </Style>
+    <Style ID="E584B024-9E9A-4D97-8280-22C271EA0B35" Name="Heading 1" Shortcut="4" Type="Para+Char" FontChange="Size">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 Calibri-Bold;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs36\cf0
+\pard\plain \tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sb260\sl262\slmult1\ltrch\loch {\f0\fs36\b1\i0 <$Scr_H::1>Attributes<!$Scr_H::1>}}]]></Format>
+    </Style>
+    <Style ID="1B9F2DDB-12A9-405D-9B60-670D4157D28A" Name="Heading 2" Shortcut="5" Type="Para+Char" FontChange="Size">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 Calibri-Bold;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs26\cf0
+\pard\plain \tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sb260\sl262\slmult1\ltrch\loch {\f0\fs26\b1\i0 <$Scr_H::2>Attributes<!$Scr_H::2>}}]]></Format>
+    </Style>
+    <Style ID="57E1C700-C4D2-40CB-9A2A-5DD25C6EABE0" Name="Centered Text" Shortcut="1" Type="Para">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 Calibri;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs26\cf0
+\pard\plain \tx360\tx720\tx1080\tx1440\tx1800\tx2160\tx2880\tx3600\tx4320\sl262\slmult1\qc\ltrch\loch {\f0\fs26\b0\i0 Attributes}}]]></Format>
+    </Style>
+    <Style ID="DB631913-6B97-4D41-B1EA-8FA5632B996C" Name="Block Quote" Shortcut="2" Type="Para" FontChange="Size">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 ArialMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0
+\pard\plain \tx720\tx1080\tx1440\li720\sa240\sb240\sl262\slmult1\ltrch\loch {\f0\fs24\b0\i0 Attributes}}]]></Format>
+    </Style>
+    <Style ID="ECE24CD5-0E50-498A-80F6-E532ED40DF2E" Name="Attribution" Type="Para" FontChange="Size">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 ArialMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0
+\pard\plain \tx720\tx1080\tx1440\li720\sa240\sl264\slmult1\qr\ltrch\loch {\f0\fs24\b0\i0 Attributes}}]]></Format>
+    </Style>
+    <Style ID="A793AEC6-C190-4C35-B2A6-2BE3A0CEFC0C" Name="Code Block" Next="A793AEC6-C190-4C35-B2A6-2BE3A0CEFC0C" Type="Para+Char" FontChange="Face+Size">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 Consolas;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs22\cf0
+\pard\plain \tx720\tx1080\tx1440\tx1800\tx2160\li720\ltrch\loch {\f0\fs22\b0\i0 Attributes}}]]></Format>
+    </Style>
+    <Style ID="D820D296-5A7F-40A3-89FD-A9A9B217927B" Name="Verse" Next="D820D296-5A7F-40A3-89FD-A9A9B217927B" Type="Para" FontChange="Size">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 Calibri;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0
+\pard\plain \sl264\slmult1\qc\ltrch\loch {\f0\fs24\b0\i0 Attributes}}]]></Format>
+    </Style>
+    <Style ID="C568C91D-82BB-495E-BC7A-CA6705435C05" Name="Code Span" Type="Char" FontChange="Face+Size">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 Consolas;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs22\cf0
+\pard\plain \tx0\tx360\tx720\tx1080\tx1440\tx1800\tx2160\tx2880\tx3600\tx4320\fi720\ltrch\loch {\f0\fs22\b0\i0 Attributes}}]]></Format>
+    </Style>
+    <Style ID="41CF7707-1DBB-4DC3-830A-92CC0ACB0438" Name="Caption" Shortcut="3" Type="Para" FontChange="Size">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 ArialMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs26\cf0
+\pard\plain \tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sa160\sl262\slmult1\qc\ltrch\loch {\f0\fs26\b0\i0 Attributes}}]]></Format>
+    </Style>
+    <Style ID="F1D5047D-E9E2-4875-B06A-C4EA896E3EAF" Name="Emphasis" Type="Char">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 Calibri-Italic;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0
+\pard\plain \tx0\tx360\tx720\tx1080\tx1440\tx1800\tx2160\tx2880\tx3600\tx4320\fi720\ltrch\loch {\f0\fs24\b0\i1 Attributes}}]]></Format>
+    </Style>
+</Styles>
